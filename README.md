@@ -5,7 +5,7 @@ Home: https://github.com/bpython/curtsies
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Curses-like terminal wrapper, with colored strings!
 
