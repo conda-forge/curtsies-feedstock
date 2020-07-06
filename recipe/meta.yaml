@@ -1,5 +1,5 @@
 {% set name = "curtsies" %}
-{% set version = "0.3.2" %}
+{% set version = "0.3.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: b863246aca6a26a427dd636ea9eee1ff4d3afcf78c62049ab1a675304e3d9b95
+  sha256: d528742a9a6a705a7f40b90e5300c8501808d32f59e266a91c91790eff3f7eb8
 
 build:
   number: 0
