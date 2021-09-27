@@ -22,7 +22,8 @@ requirements:
   run:
     - blessings >=1.5
     - python
-    - wcwidth >=0.1.4
+    - cwcwidth
+    - backports.cached-property  # [py<38]
 
 test:
   imports:
