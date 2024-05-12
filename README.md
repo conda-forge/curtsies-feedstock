@@ -1,11 +1,11 @@
-About curtsies
-==============
+About curtsies-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/curtsies-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/bpython/curtsies
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/curtsies-feedstock/blob/main/LICENSE.txt)
 
 Summary: Curses-like terminal wrapper, with colored strings!
 
